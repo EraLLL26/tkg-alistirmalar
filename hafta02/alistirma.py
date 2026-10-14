@@ -1,4 +1,4 @@
-*# Hafta 2: Python temelleri
+# Hafta 2: Python temelleri
 #
 # Her fonksiyonun içindeki `pass` satırını silip kendi kodunuzu yazın.
 # Fonksiyonların adlarını ve parametrelerini DEĞİŞTİRMEYİN; testler bu adlarla çalışır.
